@@ -52,7 +52,7 @@ class BaseAction
     protected function display()
     {
     	ob_start();
-    	$tpl_data = $this->tpl_data;
+    	#$tpl_data = $this->tpl_data;
     	$file = dirname(__FILE__).'/../../templates/'.$this->tpl;
     	if(file_exists($file)){
     		include($file);
