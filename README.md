@@ -1,2 +1,2 @@
-tiny php server framwork
+tiny php server framework
 ======
