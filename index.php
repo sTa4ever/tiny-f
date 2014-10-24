@@ -3,7 +3,7 @@
  * index.php
  * 
  * @package	dev-test
- * @author	guanhua01(guanhua01@baidu.com)
+ * @author	guanhua(guanhua2011@gmail.com)
  * @version	v1.0.0
  */
 
